@@ -3,7 +3,7 @@
 
 # 5. `05_Alert_Analysis/rule_550_analysis.md`
 
-```markdown
+
 # Rule 550 Alert Analysis
 
 ## Overview
