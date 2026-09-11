@@ -3,7 +3,7 @@
 
 # 3. `03_Wazuh_Agent/agent_configuration.md`
 
-```markdown
+markdown
 # Wazuh Agent Configuration
 
 ## Overview
