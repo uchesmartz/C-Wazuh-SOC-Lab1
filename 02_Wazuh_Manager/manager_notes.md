@@ -3,7 +3,7 @@
 
 # 2. `02_Wazuh_Manager/manager_notes.md`
 
-```markdown
+markdown
 # Wazuh Manager Notes
 
 ## Overview
